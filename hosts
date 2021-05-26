@@ -1,2 +1,2 @@
 [tomcat-nodes]
-172.31.32.149 # Add Server IP address, one line per server
+localhost # Add Server IP address, one line per server
